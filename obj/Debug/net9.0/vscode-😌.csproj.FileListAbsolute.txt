@@ -1,0 +1,14 @@
+/Users/bhaumikpatel/Desktop/vscode-😌/bin/Debug/net9.0/vscode-😌
+/Users/bhaumikpatel/Desktop/vscode-😌/bin/Debug/net9.0/vscode-😌.deps.json
+/Users/bhaumikpatel/Desktop/vscode-😌/bin/Debug/net9.0/vscode-😌.runtimeconfig.json
+/Users/bhaumikpatel/Desktop/vscode-😌/bin/Debug/net9.0/vscode-😌.dll
+/Users/bhaumikpatel/Desktop/vscode-😌/bin/Debug/net9.0/vscode-😌.pdb
+/Users/bhaumikpatel/Desktop/vscode-😌/obj/Debug/net9.0/vscode-😌.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhaumikpatel/Desktop/vscode-😌/obj/Debug/net9.0/vscode-😌.AssemblyInfoInputs.cache
+/Users/bhaumikpatel/Desktop/vscode-😌/obj/Debug/net9.0/vscode-😌.AssemblyInfo.cs
+/Users/bhaumikpatel/Desktop/vscode-😌/obj/Debug/net9.0/vscode-😌.csproj.CoreCompileInputs.cache
+/Users/bhaumikpatel/Desktop/vscode-😌/obj/Debug/net9.0/vscode-😌.dll
+/Users/bhaumikpatel/Desktop/vscode-😌/obj/Debug/net9.0/refint/vscode-😌.dll
+/Users/bhaumikpatel/Desktop/vscode-😌/obj/Debug/net9.0/vscode-😌.pdb
+/Users/bhaumikpatel/Desktop/vscode-😌/obj/Debug/net9.0/vscode-😌.genruntimeconfig.cache
+/Users/bhaumikpatel/Desktop/vscode-😌/obj/Debug/net9.0/ref/vscode-😌.dll

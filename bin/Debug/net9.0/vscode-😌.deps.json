@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "vscode-\uD83D\uDE0C/1.0.0": {
+        "runtime": {
+          "vscode-\uD83D\uDE0C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vscode-\uD83D\uDE0C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

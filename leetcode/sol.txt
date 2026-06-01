@@ -1,0 +1,3 @@
+loop iterate over all elements
+check all the elements sub agar che ke nai
+if yes toh return nai toh complete
